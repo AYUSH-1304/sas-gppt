@@ -39,7 +39,7 @@ conda activate gptenv
 # Step 3: Clone the repository
 
 ```bash
-git clone https://github.com/satendraSisodiya/sasgpt.git
+git clone https://github.com/AYUSH-1304/sas-gpt.git
 cd sasgpt
 ```
 
