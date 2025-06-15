@@ -62,12 +62,12 @@ python app.py
 ## 📁 Project Structure
 
 sasgpt/
-├── app/                 # Main application code
-├── config/              # Configuration files
-├── logger/              # Logging utilities
-├── app.py               # Application entry point
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
+├── app/                 
+├── config/              
+├── logger/              
+├── app.py               
+├── requirements.txt     
+└── README.md            
 
 ---
 
