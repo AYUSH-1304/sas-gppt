@@ -126,7 +126,7 @@ This project is licensed under the **MIT License**.
 
 ## 🙌 Acknowledgments
 
-Developed by **Satendra Sisodiya** and team as part of the **final-year project at BKIT**.
+Developed by **Ayush Kumawat** and team as part of the **final-year project at BKIT**.
 
 ---
 
